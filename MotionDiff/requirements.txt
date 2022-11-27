@@ -1,0 +1,10 @@
+easydict==1.9
+einops==0.4.1
+h5py==3.6.0
+matplotlib==3.5.2
+numpy==1.21.6
+progress==1.6
+PyYAML==6.0
+scipy==1.7.3
+timm==0.5.4
+tqdm==4.64.0
